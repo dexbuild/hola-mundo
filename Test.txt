@@ -1,0 +1,6 @@
+3 metodos de ordenamiento con investigación (no puede incluir burbuja o inserción directa)
+
+Con funciones
+Arreglo[10];
+Menu: Insertar, Mostrar con cada uno de los metodos investigados.
+ 
